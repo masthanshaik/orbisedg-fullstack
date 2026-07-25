@@ -1,0 +1,487 @@
+{
+  "services": {
+    "web-development": {
+      "title": "Web Development",
+      "tagline": "A website that works as hard as the business behind it.",
+      "overview": "A good website does three things: it loads fast, it converts, and it reflects the quality of the business behind it. We build for all three. CMS-backed so the team can manage it, performance-tuned so it stays fast.",
+      "audience": "Brands whose current site no longer reflects what the business has become, or that have never had a site built with real quality and intent.",
+      "deliverables": [
+        "Technical & UX audit",
+        "Design system & build",
+        "Performance and accessibility tuning",
+        "Post-launch support window"
+      ],
+      "process": [
+        {
+          "title": "Discover",
+          "desc": "Audit the current site, map the goals, and understand what the business actually needs the site to do."
+        },
+        {
+          "title": "Architect",
+          "desc": "Define information architecture, page structure, and the component system."
+        },
+        {
+          "title": "Design",
+          "desc": "Design key templates aligned to brand standards and conversion priorities."
+        },
+        {
+          "title": "Build",
+          "desc": "Develop with a proper CMS setup so the team can manage content without developer support."
+        },
+        {
+          "title": "Launch",
+          "desc": "QA, performance pass, and go-live with analytics and tracking in place."
+        },
+        {
+          "title": "Optimise",
+          "desc": "Monitor, refine, and improve based on real user behaviour after launch."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Will we be able to edit the site ourselves?",
+          "a": "Yes. We build sites with a proper CMS so your team can edit content, update pages, and manage the site without developer involvement."
+        },
+        {
+          "q": "How long does a typical build take?",
+          "a": "Most builds run 4 to 8 weeks, depending on scope and the number of templates required."
+        },
+        {
+          "q": "Do you work with existing sites or only full rebuilds?",
+          "a": "Both. We can audit and improve what's already there, or rebuild properly if that's the right call. We'll tell you which after a proper look."
+        },
+        {
+          "q": "Is SEO included?",
+          "a": "Technical SEO foundations are built in as standard. Ongoing SEO is a separate engagement."
+        },
+        {
+          "q": "What platforms do you build on?",
+          "a": "We build on platforms that fit the project — typically a CMS-backed setup for content flexibility, with custom front-end code where the design and performance require it."
+        }
+      ]
+    },
+    "ui-ux-design": {
+      "title": "UI/UX Design",
+      "tagline": "Design that makes digital products easier to use and harder to leave.",
+      "overview": "Interface design is the difference between a product people understand and one they leave. We design digital experiences around real user behaviour, business goals, and conversion logic. Every screen is a decision. We make those decisions intentional.",
+      "audience": "Product teams, founders, and marketing leads who need interfaces that reduce friction, convert better, and reflect the actual quality of the brand.",
+      "deliverables": [
+        "UX audit and heuristic review",
+        "User flow mapping",
+        "Wireframes and interaction design",
+        "High-fidelity UI design",
+        "Design system and component library",
+        "Developer-ready handoff files"
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "desc": "Review existing interfaces, map user journeys, and find where the experience breaks down."
+        },
+        {
+          "title": "Structure",
+          "desc": "Define information architecture, user flows, and screen logic before any visual design begins."
+        },
+        {
+          "title": "Design",
+          "desc": "Build high-fidelity screens grounded in the brand system, designed for usability and conversion."
+        },
+        {
+          "title": "Validate",
+          "desc": "Test against real user behaviour where possible. Refine before handing anything to build."
+        },
+        {
+          "title": "Handoff",
+          "desc": "Deliver development-ready files, design tokens, and documentation the engineering team can work from directly."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you design for web and mobile?",
+          "a": "Both. Responsive and mobile-first design is built into every project from the start, not added at the end."
+        },
+        {
+          "q": "Do you work within our existing brand guidelines?",
+          "a": "Yes. We design within the existing system or help establish one if clear guidelines are missing."
+        },
+        {
+          "q": "Can you work with our development team?",
+          "a": "Yes. We deliver developer-ready files, design tokens, and specifications they can work from directly."
+        },
+        {
+          "q": "Is user research included?",
+          "a": "Structured research is available as a scoped addition. Every project is informed at minimum by heuristic review and established UX principles."
+        },
+        {
+          "q": "How does this connect to your web development service?",
+          "a": "Design and development work best when planned together. We can run both in sequence or in parallel depending on where you are in the process."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO",
+      "tagline": "Organic search visibility that compounds. Built on structure, content, and real intent.",
+      "overview": "Organic visibility is earned, not bought. We build for technical quality, content relevance, and site authority. All three. Not just the ones that are easiest to report on.",
+      "audience": "Brands with traffic that has plateaued, or sites that have never been properly optimised for search. Also businesses entering a market and needing to establish organic presence from the ground up.",
+      "deliverables": [
+        "Technical SEO audit",
+        "On-page optimisation",
+        "Content & keyword strategy",
+        "Monthly reporting & forecasting"
+      ],
+      "process": [
+        {
+          "title": "Audit",
+          "desc": "Full technical and content audit benchmarked against competitors and search best practice."
+        },
+        {
+          "title": "Roadmap",
+          "desc": "A prioritised plan ranked by commercial impact and effort. Not just what's easy to tick off."
+        },
+        {
+          "title": "Implementation",
+          "desc": "Fix technical issues, improve on-page structure, and sharpen the content signals search engines rely on."
+        },
+        {
+          "title": "Content",
+          "desc": "Build out content around queries with real commercial intent behind them."
+        },
+        {
+          "title": "Monitor",
+          "desc": "Track rankings, traffic, and conversions monthly with clear, honest reporting."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How long until we see results?",
+          "a": "Technical fixes can show impact within weeks. Content and authority gains typically build over 3 to 6 months. We set honest expectations at the start and report against them."
+        },
+        {
+          "q": "Do you guarantee rankings?",
+          "a": "No reputable agency can. Search rankings are influenced by too many variables. What we do guarantee is that the work focuses on the right levers: technical quality, content relevance, and site authority."
+        },
+        {
+          "q": "Will this work alongside paid campaigns?",
+          "a": "Yes. SEO and paid media data reinforce each other. Organic intent signals improve paid targeting, and paid data can inform content strategy."
+        },
+        {
+          "q": "Do you handle international or multi-location SEO?",
+          "a": "Yes, including hreflang implementation, local landing pages, and Google Business Profile setups."
+        },
+        {
+          "q": "What tools do you use?",
+          "a": "A combination of industry-standard platforms for technical audits, rank tracking, and content analysis."
+        }
+      ]
+    },
+    "performance-marketing": {
+      "title": "Performance Marketing",
+      "tagline": "Paid media that earns its place in the budget. Every rupee accountable.",
+      "overview": "Paid campaigns on Google and Meta, built around conversion. We target properly, test methodically, and treat the budget as if it were our own. Reporting tied to outcomes, not impressions.",
+      "audience": "Brands ready to invest in paid growth who want it managed by people who treat the budget as carefully as their own.",
+      "deliverables": [
+        "Channel & account audit",
+        "Campaign build and creative briefs",
+        "Ongoing testing roadmap",
+        "Weekly reporting & optimisation"
+      ],
+      "process": [
+        {
+          "title": "Audit",
+          "desc": "Review existing accounts, spend history, and performance against commercial goals."
+        },
+        {
+          "title": "Strategy",
+          "desc": "Define channels, budgets, audience approach, and conversion targets."
+        },
+        {
+          "title": "Launch",
+          "desc": "Build and launch campaigns with full tracking and attribution in place."
+        },
+        {
+          "title": "Test",
+          "desc": "Run structured creative, copy, and audience tests to improve efficiency."
+        },
+        {
+          "title": "Scale",
+          "desc": "Reallocate budget toward what's working and cut what isn't."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What budget do I need to get started?",
+          "a": "It varies by channel and objective. We'll tell you honestly if a budget is too small to generate meaningful data — we'd rather say so up front."
+        },
+        {
+          "q": "Which platforms do you run?",
+          "a": "Primarily Google and Meta, chosen based on where your buyers actually are and what your goals require."
+        },
+        {
+          "q": "Do you produce the ad creative too?",
+          "a": "Yes — in partnership with our content team, or we can work with your existing assets."
+        },
+        {
+          "q": "How is performance reported?",
+          "a": "Weekly dashboards tied to revenue or lead value, not just clicks and impressions."
+        },
+        {
+          "q": "Can you take over an underperforming account?",
+          "a": "Yes. Account audits and takeovers are one of our most common starting points — we'll tell you exactly what's wrong and how we'd fix it."
+        }
+      ]
+    },
+    "social-media": {
+      "title": "Social Media",
+      "tagline": "Social content with a point of view. Built to represent the brand, not just maintain a presence.",
+      "overview": "Social presence starts with having something worth saying. We build content systems around the brand's actual positioning. Consistent output, considered creative, and a point of view that holds up over time.",
+      "audience": "Brands whose social presence feels flat, inconsistent, or disconnected from what the business actually stands for.",
+      "deliverables": [
+        "Channel audit & strategy",
+        "Content calendar",
+        "Production (video, graphics, copy)",
+        "Community management & reporting"
+      ],
+      "process": [
+        {
+          "title": "Audit",
+          "desc": "Review current channels, audience behaviour, and content performance."
+        },
+        {
+          "title": "Strategy",
+          "desc": "Define content pillars, brand tone, and formats per platform."
+        },
+        {
+          "title": "Produce",
+          "desc": "Plan and produce content in batches, reviewed before anything goes live."
+        },
+        {
+          "title": "Publish",
+          "desc": "Schedule and post across active channels with consistent timing."
+        },
+        {
+          "title": "Report",
+          "desc": "Track engagement, reach, and audience growth — and refine based on what's working."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Which platforms do you cover?",
+          "a": "Instagram, LinkedIn, TikTok, and X — prioritised by where your audience actually spends time, not where everyone else defaults to."
+        },
+        {
+          "q": "Do you need access to our brand assets?",
+          "a": "Yes — and we'll flag gaps and help build out what's missing as part of the engagement."
+        },
+        {
+          "q": "Can you work alongside our in-house team?",
+          "a": "Yes. We often plug into existing teams to add production capacity, creative direction, or strategic structure."
+        },
+        {
+          "q": "How is content approved before it goes live?",
+          "a": "We work in batches with a clear review window built in. Nothing goes live without your sign-off."
+        },
+        {
+          "q": "Do you run paid social too?",
+          "a": "Paid social sits under Performance Marketing and pairs well with this service."
+        }
+      ]
+    },
+    "content-production": {
+      "title": "Content Production",
+      "tagline": "Content built to make the rest of the marketing work harder.",
+      "overview": "Campaign assets, long-form authority content, and branded editorial. Strategy-first, editorially rigorous, and built to make the rest of the marketing work harder. Quality and tone consistent across every format.",
+      "audience": "Brands that need a consistent content engine but lack the in-house bandwidth or editorial structure to run one properly.",
+      "deliverables": [
+        "Content audit & strategy",
+        "Editorial calendar",
+        "Production across formats",
+        "Distribution & repurposing plan"
+      ],
+      "process": [
+        {
+          "title": "Research",
+          "desc": "Identify topics, formats, and audience intent with real commercial demand."
+        },
+        {
+          "title": "Plan",
+          "desc": "Build an editorial calendar tied directly to business goals and growth priorities."
+        },
+        {
+          "title": "Produce",
+          "desc": "Write, design, film, and edit — with quality and tone consistent across everything."
+        },
+        {
+          "title": "Publish",
+          "desc": "Ship content across owned channels on a consistent, reliable schedule."
+        },
+        {
+          "title": "Repurpose",
+          "desc": "Adapt the best-performing content across formats and channels to extend its reach."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What types of content do you produce?",
+          "a": "Long-form articles, landing pages, campaign assets, video, and branded visuals — whatever the strategy requires."
+        },
+        {
+          "q": "How do you maintain quality and brand tone?",
+          "a": "A documented style guide and a review pass on everything before it ships. Nothing goes out without meeting the standard."
+        },
+        {
+          "q": "Is this connected to SEO?",
+          "a": "Yes. Content production and SEO strategy are built to work together — content topics are informed by search intent and commercial relevance."
+        },
+        {
+          "q": "Can you work from our existing brand guidelines?",
+          "a": "Yes. We'll work within them and flag any gaps if guidelines don't cover a format we need."
+        },
+        {
+          "q": "How often is content delivered?",
+          "a": "Typically in monthly batches, with the scope and cadence agreed during onboarding."
+        }
+      ]
+    },
+    "brand-strategy": {
+      "title": "Brand Strategy",
+      "tagline": "Get the positioning right first. Everything else builds faster.",
+      "overview": "Most brands grow faster than their positioning can keep up with. We define where the brand sits in its market, what it stands for, and how that translates into messaging and a digital presence that holds up.",
+      "audience": "Brands that have outgrown their current positioning, or founders who need to get it right before they build.",
+      "deliverables": [
+        "Brand & competitor audit",
+        "Positioning & messaging framework",
+        "Visual identity system",
+        "Brand guidelines"
+      ],
+      "process": [
+        {
+          "title": "Discover",
+          "desc": "Audit the current brand, market position, audience, and competitive landscape."
+        },
+        {
+          "title": "Define",
+          "desc": "Lock positioning, voice, and messaging — what the brand stands for and how it should sound."
+        },
+        {
+          "title": "Design",
+          "desc": "Build the visual identity system around the strategic direction."
+        },
+        {
+          "title": "Deliver",
+          "desc": "Package guidelines, source files, and templates the team can actually use."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you design logos as a standalone service?",
+          "a": "Logo design is part of a full identity system, not sold in isolation. A logo without positioning and guidelines to support it doesn't do much."
+        },
+        {
+          "q": "How involved is our team in the process?",
+          "a": "Closely. Brand strategy especially relies on input from founders and key stakeholders — we need to understand the business to position it properly."
+        },
+        {
+          "q": "What do we receive at the end?",
+          "a": "A brand guidelines document, source files, and templates for common use cases — everything the team needs to apply the brand consistently."
+        },
+        {
+          "q": "Can this feed into a website rebuild?",
+          "a": "Yes — and it's the recommended starting point. Building a site without clear brand direction usually means rebuilding it again sooner than you'd like."
+        },
+        {
+          "q": "How long does a brand strategy engagement take?",
+          "a": "Typically 4–6 weeks depending on the number of stakeholders involved and the complexity of the market."
+        }
+      ]
+    }
+  },
+  "case_studies": {
+    "fynvos": {
+      "title": "FYNVOS",
+      "excerpt": "A fintech challenger that needed to look as credible as it actually was. We rebuilt the brand and the site.",
+      "sections": {
+        "The Brief": "FYNVOS is a fintech challenger entering a crowded, trust-sensitive category. The existing brand and site looked early-stage, undermining credibility with partners and end users. The site was also difficult to update, which made the problem harder to fix.",
+        "What We Did": "We audited the brand, competitors, and existing site, then repositioned FYNVOS around clarity and trust. Brand identity, messaging, and a fully rebuilt site were delivered in parallel sprints, with the internal team able to edit content from day one.",
+        "The Result": "The rebrand and rebuild gave FYNVOS a presence that matches its ambitions, covering product, company, and resource pages. A site the team can maintain and update without developer support."
+      },
+      "metrics": [
+        {
+          "value": "2.4x",
+          "label": "increase in qualified inbound enquiries"
+        },
+        {
+          "value": "<1.5s",
+          "label": "average page load time"
+        },
+        {
+          "value": "6 weeks",
+          "label": "from kickoff to launch"
+        }
+      ],
+      "testimonial": {
+        "quote": "Orbisedg understood exactly what we needed to look credible to partners from day one — and built us a site we can actually keep up to date ourselves.",
+        "author": "FYNVOS Founding Team"
+      }
+    },
+    "orbisedg-redesign": {
+      "title": "Orbisedg Website Redesign",
+      "excerpt": "We applied the same standards to our own site that we apply to any client's.",
+      "sections": {
+        "The Brief": "Our previous site was a recovered prototype that no longer matched our positioning, services, or the level of craft we deliver for clients. It needed to be rebuilt properly.",
+        "What We Did": "We benchmarked premium agency sites for layout and hierarchy, mapped our service lines and case studies against that structure, then rebuilt from scratch with a full CMS setup — six dedicated service pages and a case study template, built in sprints with founder review at each stage.",
+        "The Result": "A new design system, component library, and editable contact flow. A site that's easier to extend, easier to edit, and finally matches the brand we sell to clients."
+      },
+      "metrics": [
+        {
+          "value": "6",
+          "label": "dedicated service pages launched"
+        },
+        {
+          "value": "100%",
+          "label": "editable via WordPress + Elementor"
+        }
+      ],
+      "testimonial": {
+        "quote": "If we wouldn't ship it for a client, we don't ship it for ourselves either.",
+        "author": "Orbisedg Team"
+      }
+    },
+    "luxury-ecommerce-growth": {
+      "title": "Luxury E-commerce Growth",
+      "excerpt": "A premium product with a site that wasn't keeping up. We improved the experience and the numbers followed.",
+      "sections": {
+        "The Brief": "A premium e-commerce label competing on craft and brand experience, not price. The product was strong but the digital experience was underwhelming. The site didn't reflect the quality of what was being sold, and conversion lagged behind traffic, especially on mobile.",
+        "What We Did": "A UX and performance audit identified friction in navigation, checkout, and page speed. We redesigned product, collection, and checkout templates around a premium editorial aesthetic while simplifying the path to purchase, paired with a performance marketing push to drive qualified traffic.",
+        "The Result": "A storefront that finally matches the brand, converts more of the traffic it earns, and gives the team a digital foundation worth building on."
+      },
+      "metrics": [
+        {
+          "value": "+38%",
+          "label": "conversion rate on mobile"
+        },
+        {
+          "value": "-45%",
+          "label": "page load time"
+        },
+        {
+          "value": "+22%",
+          "label": "average order value"
+        }
+      ],
+      "testimonial": {
+        "quote": "Our site finally feels like the brand we built. The numbers followed quickly after.",
+        "author": "Brand Director, Luxury E-commerce Client"
+      }
+    }
+  },
+  "testimonials": [
+    {
+      "quote": "Orbisedg rebuilt our entire growth engine — the results showed up faster than any agency we've worked with.",
+      "author": "Founder, B2B SaaS"
+    },
+    {
+      "quote": "They think like operators, not vendors. Every recommendation tied directly to revenue.",
+      "author": "CMO, Luxury E-commerce"
+    }
+  ]
+}

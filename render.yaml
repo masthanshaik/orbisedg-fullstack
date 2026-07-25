@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: orbisedg-api
+    runtime: node
+    rootDir: apps/api
+    plan: free
+    buildCommand: npm install && npm run build
+    preDeployCommand: npm run db:deploy && npm run db:seed
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22.16.0
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: orbisedg-postgres
+          property: connectionString
+      - key: ALLOWED_ORIGINS
+        sync: false
+      - key: ADMIN_API_KEY
+        generateValue: true
+
+databases:
+  - name: orbisedg-postgres
+    plan: free
+    databaseName: orbisedg
+    user: orbisedg
