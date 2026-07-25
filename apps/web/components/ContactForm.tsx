@@ -17,7 +17,7 @@ export function ContactForm() {
 
     const form = event.currentTarget;
     const formData = new FormData(form);
-    const payload = Object.fromEntries(formData.entries());
+    const payload: Record<string, FormDataEntryValue | boolean> = Object.fromEntries(formData.entries());
     payload.consent = formData.get("consent") === "on";
 
     try {
