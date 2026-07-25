@@ -1,6 +1,6 @@
 import cors from "cors";
 import express from "express";
-import helmet from "helmet";
+import * as helmetPackage from "helmet";
 import morgan from "morgan";
 import { env } from "./lib/env.js";
 import { adminRouter } from "./routes/admin.js";
@@ -15,7 +15,7 @@ if (env.TRUST_PROXY) {
 }
 
 app.disable("x-powered-by");
-app.use(helmet());
+app.use(helmetPackage.default());
 app.use(
   cors({
     origin(origin, callback) {
